@@ -86,43 +86,79 @@
     "diapositivas": [
       {
         "id": 1,
-        "imagen": "img-carousel1.jpg",
+        "imagen": "CuartetodeNos.webp",
         "alt": "Camion en carretera",
         "descripcion": ""
       },
       {
         "id": 2,
-        "imagen": "img-carousel2.jpg",
+        "imagen": "FestivaldelTerror8.webp",
         "alt": "Instalaciones de la empresa",
         "descripcion": "Equipo trabajando por ustedes"
       },
       {
         "id": 3,
-        "imagen": "img-carousel3.jpg",
+        "imagen": "FestivalinternacionaldeTeatro.webp",
         "alt": "Puente transmilenio calle 6 con 30",
         "descripcion": "Transportamos su carga en todos los sentidos"
       },
       {
         "id": 4,
-        "imagen": "img-carousel4.jpg",
+        "imagen": "HombresG.webp",
         "alt": "nuestra empresa con sus colaboradores",
         "descripcion": "Empleados trabajando por ustedes"
       },
       {
         "id": 5,
-        "imagen": "cargaPesadaconJose.jfif",
+        "imagen": "Ilucionistas.webp",
         "alt": "Imagen Carga pesada con jose",
         "descripcion": "Servicio de tramsporte de Carga de gran tamaño"
       },
       {
         "id": 6,
-        "imagen": "img-carousel2.jpg",
+        "imagen": "JessiUribe.webp",
         "alt": "Imagen de las oficinas",
         "descripcion": "Oficinas pricipales"
       },
       {
         "id": 7,
-        "imagen": "img-carouselPrincipal.jpg",
+        "imagen": "MarcoAntonioSolis.webp",
+        "alt": "Imagen de las oficinas",
+        "descripcion": "prueba imagen principal"
+      },
+      {
+        "id": 8,
+        "imagen": "PetShopBoys.jpg",
+        "alt": "Imagen de las oficinas",
+        "descripcion": "prueba imagen principal"
+      },
+      {
+        "id": 9,
+        "imagen": "HombresG.webp",
+        "alt": "nuestra empresa con sus colaboradores",
+        "descripcion": "Empleados trabajando por ustedes"
+      },
+      {
+        "id": 10,
+        "imagen": "Proyecto1.webp",
+        "alt": "Imagen Carga pesada con jose",
+        "descripcion": "Servicio de tramsporte de Carga de gran tamaño"
+      },
+      {
+        "id": 11,
+        "imagen": "Raphael.webp",
+        "alt": "Imagen de las oficinas",
+        "descripcion": "Oficinas pricipales"
+      },
+      {
+        "id": 12,
+        "imagen": "SilvestreDangond.webp",
+        "alt": "Imagen de las oficinas",
+        "descripcion": "prueba imagen principal"
+      },
+      {
+        "id": 13,
+        "imagen": "VinoalParque.webp",
         "alt": "Imagen de las oficinas",
         "descripcion": "prueba imagen principal"
       }
