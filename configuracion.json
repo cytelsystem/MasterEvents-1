@@ -1,9 +1,6 @@
-// 20231029130631
-// https://benjumeacarlos981.github.io/multicarga/configuracion.json
-
 {
   "img": {
-    "linkImg": "https://benjumeacarlos981.github.io/multicarga/img/"
+    "linkImg": "https://benjumeacarlos981.github.io/MasterEvents/img/"
   },
   "contacto": {
     "telefono": "3102508479",
@@ -35,41 +32,49 @@
         "href": "https://api.whatsapp.com/send/?phone=573206680205&amp;text=%C2%A1Hola+Team+Multicarga!",
         "col": "col-3"
       }
+      
     ]
-  },
+
+    },
   "navbar": {
     "nombre": "MULTICARGA",
     "logo": "",
     "tamanoFontSizeLogo": "40px",
     "colorFontSizelogo": "#fbe12b",
     "filterSvg1": "invert(48%) sepia(79%) saturate(2476%) hue-rotate(18deg) brightness(118%) contrast(119%)",
+
     "menus": {
       "nosotros": {
         "nombre": "nosotros",
         "historia": {
-          "nombre": "Historia",
-          "detalle": "MULTICARGA J Y M. S.A.S., empresa con más de 30 años de experiencia en el mercado, especializada en logística y transporte de carga terrestre a nivel local y nacional, donde buscamos satisfacer las necesidades de transporte de nuestros clientes, la correcta distribución y manejo de sus bienes; mediante la prestación de un servicio profesional, eficiente y de la mejor calidad. Adicional mente contamos con una flota de camiones propios y asociados, personal calificado para el manejo de su carga."
+            "nombre": "Historia",
+            "detalle": "MULTICARGA J Y M. S.A.S., empresa con más de 30 años de experiencia en el mercado, especializada en logística y transporte de carga terrestre a nivel local y nacional, donde buscamos satisfacer las necesidades de transporte de nuestros clientes, la correcta distribución y manejo de sus bienes; mediante la prestación de un servicio profesional, eficiente y de la mejor calidad. Adicional mente contamos con una flota de camiones propios y asociados, personal calificado para el manejo de su carga."
         },
         "mision": {
-          "nombre": "Mision",
-          "detalle": "MULTICARGA J.Y. M. S.A.S., es una empresa dedicada a la prestación del servicio integral en logísticos y de transporte de carga especializado en motos, mudanzas residenciales, empresariales y mercancía en general, embalaje, bodegaje, contribuyendo a la maximización del valor de la compañía mediante la prestación de un servicio de la mejor calidad."
+            "nombre": "Mision",
+            "detalle": "MULTICARGA J.Y. M. S.A.S., es una empresa dedicada a la prestación del servicio integral en logísticos y de transporte de carga especializado en motos, mudanzas residenciales, empresariales y mercancía en general, embalaje, bodegaje, contribuyendo a la maximización del valor de la compañía mediante la prestación de un servicio de la mejor calidad."
         },
         "vision": {
-          "nombre": "Vision",
-          "detalle": "Ser líder como empresas de logísticas y transporte más reconocidos a nivel nacional, donde se destaque principalmente su cumplimiento, excelente servicio y calidad en los mismos, utilizando altos estándares tecnológicos con el fin de ofrecer un servicio oportuno brindando en todo momento a nuestros clientes."
+            "nombre": "Vision",
+            "detalle": "Ser líder como empresas de logísticas y transporte más reconocidos a nivel nacional, donde se destaque principalmente su cumplimiento, excelente servicio y calidad en los mismos, utilizando altos estándares tecnológicos con el fin de ofrecer un servicio oportuno brindando en todo momento a nuestros clientes."
         },
         "valores": {
-          "nombre": "Valores",
-          "valor1": "Etica",
-          "valor2": "Respeto",
-          "valor3": "cooperación",
-          "valor4": "Profesionalismo",
-          "valor5": "Compromiso Social",
-          "valor6": "Participación"
+            "nombre": "Valores",
+            "valor1": "Etica",
+            "valor2": "Respeto",
+            "valor3": "cooperación",
+            "valor4": "Profesionalismo",
+            "valor5": "Compromiso Social",
+            "valor6": "Participación"
+
         }
+
       }
+
+
     }
-  },
+
+    },
   "carousel": {
     "tituloPrincipalH1": "Soluciones Integrales Multicarga",
     "tituloPrincipalP": "Multicarga es una empresa trasportadora dedicada a transporte de toda clase de mercancía a nivel nacional y local garantizando seguridad, agilidad y experiencia.",
@@ -77,6 +82,7 @@
     "hrefPrincipalA": "https://api.whatsapp.com/send/?phone=573206680205&amp;text=%C2%A1Hola+Team+Multicarga!",
     "tituloPrincipalBTN": "Cotización",
     "hrefPrincipalBTN": "https://api.whatsapp.com/send/?phone=573206680205&amp;text=%C2%A1Hola+Team+Multicarga!",
+
     "diapositivas": [
       {
         "id": 1,
@@ -120,11 +126,15 @@
         "alt": "Imagen de las oficinas",
         "descripcion": "prueba imagen principal"
       }
+
     ]
-  },
+
+    },
+
   "servicios": {
     "nombre1": "Conoce nuestros",
     "nombre2": "Eventos",
+
     "card": [
       {
         "id": 1,
@@ -215,7 +225,8 @@
         "imagen": "img3.jpg",
         "titulo": "Logística y distribución de mercancía.",
         "descripcion": "Hacemos toda la logistica y distribucion de sus productos",
-        "tamanoletraH2": "150%",
+  
+      "tamanoletraH2": "150%",
         "tamanoletraP": "110%",
         "imgFooter": [
           {
@@ -266,13 +277,16 @@
           }
         ]
       }
+
+
     ]
-  },
+
+    },
   "PlaceTime": {
-    "url": "6.jpg",
-    "titulo": "Nuestros Colaboradores",
-    "detalle": "Somos un grupo de personas que trabajamos con corazón, alma y dedicación para ofrecerle a nuestros clientes un buen servicio de transporte de sus mercancías con la mayor disponibilidad de tiempo, agilidad, responsabilidad y seguridad"
-  },
+      "url": "6.jpg",
+      "titulo": "Nuestros Colaboradores",
+      "detalle": "Somos un grupo de personas que trabajamos con corazón, alma y dedicación para ofrecerle a nuestros clientes un buen servicio de transporte de sus mercancías con la mayor disponibilidad de tiempo, agilidad, responsabilidad y seguridad"
+    },
   "footer": {
     "propuestaValor": {
       "titulo": "PROPUESTA VALOR",
@@ -280,6 +294,7 @@
     },
     "nuestrosServicios": {
       "nombre": "NUESTROS SERVICIOS",
+
       "servicios": [
         {
           "id": 1,
@@ -339,20 +354,26 @@
           "href": "/",
           "color": "#ff0000"
         }
+
+
       ]
     },
     "derechosyRedes": {
       "icono": "fi-web",
       "derechos": "Derechos Reservados CytelSystem / Hector Javier Moreno"
     }
+
   },
   "telefonoApp": {
     "color": "#89ff1d",
     "backgroundColor": "#b4b4b40a"
-  },
+  }
+  ,
   "whatsApp": {
     "href": "https://api.whatsapp.com/send/?phone=573206680205&amp;text=%C2%A1Hola+Team+Multicarga!",
     "color": "ffff",
     "backgroundColor": "#00e676"
   }
+
+
 }
