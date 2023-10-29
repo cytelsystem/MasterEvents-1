@@ -32,7 +32,7 @@
         "href": "https://api.whatsapp.com/send/?phone=573206680205&amp;text=%C2%A1Hola+Team+Multicarga!",
         "col": "col-3"
       }
-      
+
     ]
 
     },
@@ -161,6 +161,12 @@
         "imagen": "VinoalParque.webp",
         "alt": "Imagen de las oficinas",
         "descripcion": "prueba imagen principal"
+      },
+      {
+        "id": 14,
+        "imagen": "SodaStereo.webp",
+        "alt": "Imagen de las oficinas",
+        "descripcion": "prueba imagen principal"
       }
 
     ]
@@ -174,7 +180,7 @@
     "card": [
       {
         "id": 1,
-        "imagen": "img1.jpg",
+        "imagen": "Card1.webp",
         "titulo": "Mudanzas residenciales y empresariales",
         "descripcion": "Transportamos su mercacia dentro y fuera de la ciudad con los mejores presios del mercado con responsabilidad y calidad.",
         "tamanoletraH2": "150%",
@@ -202,7 +208,7 @@
       },
       {
         "id": 2,
-        "imagen": "img5.jpg",
+        "imagen": "Card2.jpg",
         "titulo": "Transporte especializado de motos",
         "descripcion": "Garantizamos un manejo de calidad. Gracias a nuestro Equipo Logístico con amplia experiencia en el traslado de motos a nivel urbano y nacional servicio prestado puerta a puerta.",
         "tamanoletraH2": "150%",
@@ -230,7 +236,7 @@
       },
       {
         "id": 3,
-        "imagen": "img2.jpg",
+        "imagen": "Card3.webp",
         "titulo": "Empaque y embalaje.",
         "descripcion": "La tranquilidad de nuestros clientes es de suma importancia. Por lo anterior, empacamos y embalamos sus pertenecías con el mayor cuidado y para eso contamos con personal calificado y material de alta calidad para garantizar el éxito de nuestros servicios.",
         "tamanoletraH2": "150%",
@@ -258,10 +264,10 @@
       },
       {
         "id": 4,
-        "imagen": "img3.jpg",
+        "imagen": "Card4.webp",
         "titulo": "Logística y distribución de mercancía.",
         "descripcion": "Hacemos toda la logistica y distribucion de sus productos",
-  
+
       "tamanoletraH2": "150%",
         "tamanoletraP": "110%",
         "imgFooter": [
@@ -287,7 +293,317 @@
       },
       {
         "id": 5,
-        "imagen": "img4.jpg",
+        "imagen": "Card5.webp",
+        "titulo": "Servicio Expreso o compartido a nivel nacional",
+        "descripcion": "Contamos con servicio expreso o consolidado. Realizamos despachos a lo largo del territorio nacional, contamos con camiones de diferentes capacidades con base en las necesidades del servicio contratado.",
+        "tamanoletraH2": "145%",
+        "tamanoletraP": "79%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Delicadeza",
+            "icono": "icon-fi-zorra",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Calidad",
+            "icono": "icon-fi-sofa",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Compromiso",
+            "icono": "icon-fi-camion-trasteo",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "imagen": "Card6.webp",
+        "titulo": "Mudanzas residenciales y empresariales",
+        "descripcion": "Transportamos su mercacia dentro y fuera de la ciudad con los mejores presios del mercado con responsabilidad y calidad.",
+        "tamanoletraH2": "150%",
+        "tamanoletraP": "93%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Monitoreo",
+            "icono": "icon-fi-monitoreo",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Ubicacion",
+            "icono": "icon-fi-gps",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Eficiencia",
+            "icono": "icon-fi-eficiencia",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "imagen": "Card7.webp",
+        "titulo": "Transporte especializado de motos",
+        "descripcion": "Garantizamos un manejo de calidad. Gracias a nuestro Equipo Logístico con amplia experiencia en el traslado de motos a nivel urbano y nacional servicio prestado puerta a puerta.",
+        "tamanoletraH2": "150%",
+        "tamanoletraP": "89%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Tranquilidad",
+            "icono": "icon-fi-tranquilidad",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Resguardo",
+            "icono": "icon-fi-resguardo",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Ventilación",
+            "icono": "icon-fi-ventilacion",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "imagen": "Card8.webp",
+        "titulo": "Empaque y embalaje.",
+        "descripcion": "La tranquilidad de nuestros clientes es de suma importancia. Por lo anterior, empacamos y embalamos sus pertenecías con el mayor cuidado y para eso contamos con personal calificado y material de alta calidad para garantizar el éxito de nuestros servicios.",
+        "tamanoletraH2": "150%",
+        "tamanoletraP": "82%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Seguridad",
+            "icono": "icon-fi-guarda",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Responsabilidad",
+            "icono": "icon-fi-torso",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Protocolos",
+            "icono": "icon-fi-protocolo",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "imagen": "Card9.webp",
+        "titulo": "Logística y distribución de mercancía.",
+        "descripcion": "Hacemos toda la logistica y distribucion de sus productos",
+
+      "tamanoletraH2": "150%",
+        "tamanoletraP": "110%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Delicadeza",
+            "icono": "icon-fi-caja-embalaje",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Compactación",
+            "icono": "icon-fi-cinta-embalar",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Confiabilidad",
+            "icono": "icon-fi-guacal",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "imagen": "Card10.webp",
+        "titulo": "Servicio Expreso o compartido a nivel nacional",
+        "descripcion": "Contamos con servicio expreso o consolidado. Realizamos despachos a lo largo del territorio nacional, contamos con camiones de diferentes capacidades con base en las necesidades del servicio contratado.",
+        "tamanoletraH2": "145%",
+        "tamanoletraP": "79%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Delicadeza",
+            "icono": "icon-fi-zorra",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Calidad",
+            "icono": "icon-fi-sofa",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Compromiso",
+            "icono": "icon-fi-camion-trasteo",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "imagen": "Card11.webp",
+        "titulo": "Servicio Expreso o compartido a nivel nacional",
+        "descripcion": "Contamos con servicio expreso o consolidado. Realizamos despachos a lo largo del territorio nacional, contamos con camiones de diferentes capacidades con base en las necesidades del servicio contratado.",
+        "tamanoletraH2": "145%",
+        "tamanoletraP": "79%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Delicadeza",
+            "icono": "icon-fi-zorra",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Calidad",
+            "icono": "icon-fi-sofa",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Compromiso",
+            "icono": "icon-fi-camion-trasteo",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "imagen": "Card12.webp",
+        "titulo": "Mudanzas residenciales y empresariales",
+        "descripcion": "Transportamos su mercacia dentro y fuera de la ciudad con los mejores presios del mercado con responsabilidad y calidad.",
+        "tamanoletraH2": "150%",
+        "tamanoletraP": "93%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Monitoreo",
+            "icono": "icon-fi-monitoreo",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Ubicacion",
+            "icono": "icon-fi-gps",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Eficiencia",
+            "icono": "icon-fi-eficiencia",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "imagen": "Card13.webp",
+        "titulo": "Transporte especializado de motos",
+        "descripcion": "Garantizamos un manejo de calidad. Gracias a nuestro Equipo Logístico con amplia experiencia en el traslado de motos a nivel urbano y nacional servicio prestado puerta a puerta.",
+        "tamanoletraH2": "150%",
+        "tamanoletraP": "89%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Tranquilidad",
+            "icono": "icon-fi-tranquilidad",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Resguardo",
+            "icono": "icon-fi-resguardo",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Ventilación",
+            "icono": "icon-fi-ventilacion",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "imagen": "Card14.webp",
+        "titulo": "Empaque y embalaje.",
+        "descripcion": "La tranquilidad de nuestros clientes es de suma importancia. Por lo anterior, empacamos y embalamos sus pertenecías con el mayor cuidado y para eso contamos con personal calificado y material de alta calidad para garantizar el éxito de nuestros servicios.",
+        "tamanoletraH2": "150%",
+        "tamanoletraP": "82%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Seguridad",
+            "icono": "icon-fi-guarda",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Responsabilidad",
+            "icono": "icon-fi-torso",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Protocolos",
+            "icono": "icon-fi-protocolo",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "imagen": "Card15.webp",
+        "titulo": "Logística y distribución de mercancía.",
+        "descripcion": "Hacemos toda la logistica y distribucion de sus productos",
+
+      "tamanoletraH2": "150%",
+        "tamanoletraP": "110%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Delicadeza",
+            "icono": "icon-fi-caja-embalaje",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Compactación",
+            "icono": "icon-fi-cinta-embalar",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Confiabilidad",
+            "icono": "icon-fi-guacal",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "imagen": "Card16.webp",
         "titulo": "Servicio Expreso o compartido a nivel nacional",
         "descripcion": "Contamos con servicio expreso o consolidado. Realizamos despachos a lo largo del territorio nacional, contamos con camiones de diferentes capacidades con base en las necesidades del servicio contratado.",
         "tamanoletraH2": "145%",
