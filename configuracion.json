@@ -1,0 +1,358 @@
+// 20231029130631
+// https://benjumeacarlos981.github.io/multicarga/configuracion.json
+
+{
+  "img": {
+    "linkImg": "https://benjumeacarlos981.github.io/multicarga/img/"
+  },
+  "contacto": {
+    "telefono": "3102508479",
+    "celular": 3206680205,
+    "email": "multicargajym@gmail.com",
+    "direccion": "Carrera 21 # 159 53 Bogotá",
+    "redesSociales": [
+      {
+        "id": 1,
+        "className": "bi bi-twitter",
+        "href": "https://twitter.com/multicargajym",
+        "col": "col-3"
+      },
+      {
+        "id": 2,
+        "className": "bi bi-facebook",
+        "href": "https://facebook.com/multicargaexpressjm",
+        "col": "col-3"
+      },
+      {
+        "id": 3,
+        "className": "bi bi-instagram",
+        "href": "https://instagram.com/jmmulticarga",
+        "col": "col-3"
+      },
+      {
+        "id": 4,
+        "className": "bi bi-whatsapp",
+        "href": "https://api.whatsapp.com/send/?phone=573206680205&amp;text=%C2%A1Hola+Team+Multicarga!",
+        "col": "col-3"
+      }
+    ]
+  },
+  "navbar": {
+    "nombre": "MULTICARGA",
+    "logo": "",
+    "tamanoFontSizeLogo": "40px",
+    "colorFontSizelogo": "#fbe12b",
+    "filterSvg1": "invert(48%) sepia(79%) saturate(2476%) hue-rotate(18deg) brightness(118%) contrast(119%)",
+    "menus": {
+      "nosotros": {
+        "nombre": "nosotros",
+        "historia": {
+          "nombre": "Historia",
+          "detalle": "MULTICARGA J Y M. S.A.S., empresa con más de 30 años de experiencia en el mercado, especializada en logística y transporte de carga terrestre a nivel local y nacional, donde buscamos satisfacer las necesidades de transporte de nuestros clientes, la correcta distribución y manejo de sus bienes; mediante la prestación de un servicio profesional, eficiente y de la mejor calidad. Adicional mente contamos con una flota de camiones propios y asociados, personal calificado para el manejo de su carga."
+        },
+        "mision": {
+          "nombre": "Mision",
+          "detalle": "MULTICARGA J.Y. M. S.A.S., es una empresa dedicada a la prestación del servicio integral en logísticos y de transporte de carga especializado en motos, mudanzas residenciales, empresariales y mercancía en general, embalaje, bodegaje, contribuyendo a la maximización del valor de la compañía mediante la prestación de un servicio de la mejor calidad."
+        },
+        "vision": {
+          "nombre": "Vision",
+          "detalle": "Ser líder como empresas de logísticas y transporte más reconocidos a nivel nacional, donde se destaque principalmente su cumplimiento, excelente servicio y calidad en los mismos, utilizando altos estándares tecnológicos con el fin de ofrecer un servicio oportuno brindando en todo momento a nuestros clientes."
+        },
+        "valores": {
+          "nombre": "Valores",
+          "valor1": "Etica",
+          "valor2": "Respeto",
+          "valor3": "cooperación",
+          "valor4": "Profesionalismo",
+          "valor5": "Compromiso Social",
+          "valor6": "Participación"
+        }
+      }
+    }
+  },
+  "carousel": {
+    "tituloPrincipalH1": "Soluciones Integrales Multicarga",
+    "tituloPrincipalP": "Multicarga es una empresa trasportadora dedicada a transporte de toda clase de mercancía a nivel nacional y local garantizando seguridad, agilidad y experiencia.",
+    "tituloPrincipalA": "Quiero ser Conductor",
+    "hrefPrincipalA": "https://api.whatsapp.com/send/?phone=573206680205&amp;text=%C2%A1Hola+Team+Multicarga!",
+    "tituloPrincipalBTN": "Cotización",
+    "hrefPrincipalBTN": "https://api.whatsapp.com/send/?phone=573206680205&amp;text=%C2%A1Hola+Team+Multicarga!",
+    "diapositivas": [
+      {
+        "id": 1,
+        "imagen": "img-carousel1.jpg",
+        "alt": "Camion en carretera",
+        "descripcion": ""
+      },
+      {
+        "id": 2,
+        "imagen": "img-carousel2.jpg",
+        "alt": "Instalaciones de la empresa",
+        "descripcion": "Equipo trabajando por ustedes"
+      },
+      {
+        "id": 3,
+        "imagen": "img-carousel3.jpg",
+        "alt": "Puente transmilenio calle 6 con 30",
+        "descripcion": "Transportamos su carga en todos los sentidos"
+      },
+      {
+        "id": 4,
+        "imagen": "img-carousel4.jpg",
+        "alt": "nuestra empresa con sus colaboradores",
+        "descripcion": "Empleados trabajando por ustedes"
+      },
+      {
+        "id": 5,
+        "imagen": "cargaPesadaconJose.jfif",
+        "alt": "Imagen Carga pesada con jose",
+        "descripcion": "Servicio de tramsporte de Carga de gran tamaño"
+      },
+      {
+        "id": 6,
+        "imagen": "img-carousel2.jpg",
+        "alt": "Imagen de las oficinas",
+        "descripcion": "Oficinas pricipales"
+      },
+      {
+        "id": 7,
+        "imagen": "img-carouselPrincipal.jpg",
+        "alt": "Imagen de las oficinas",
+        "descripcion": "prueba imagen principal"
+      }
+    ]
+  },
+  "servicios": {
+    "nombre1": "Conoce nuestros",
+    "nombre2": "Servicios",
+    "card": [
+      {
+        "id": 1,
+        "imagen": "img1.jpg",
+        "titulo": "Mudanzas residenciales y empresariales",
+        "descripcion": "Transportamos su mercacia dentro y fuera de la ciudad con los mejores presios del mercado con responsabilidad y calidad.",
+        "tamanoletraH2": "150%",
+        "tamanoletraP": "93%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Monitoreo",
+            "icono": "icon-fi-monitoreo",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Ubicacion",
+            "icono": "icon-fi-gps",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Eficiencia",
+            "icono": "icon-fi-eficiencia",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "imagen": "img5.jpg",
+        "titulo": "Transporte especializado de motos",
+        "descripcion": "Garantizamos un manejo de calidad. Gracias a nuestro Equipo Logístico con amplia experiencia en el traslado de motos a nivel urbano y nacional servicio prestado puerta a puerta.",
+        "tamanoletraH2": "150%",
+        "tamanoletraP": "89%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Tranquilidad",
+            "icono": "icon-fi-tranquilidad",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Resguardo",
+            "icono": "icon-fi-resguardo",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Ventilación",
+            "icono": "icon-fi-ventilacion",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "imagen": "img2.jpg",
+        "titulo": "Empaque y embalaje.",
+        "descripcion": "La tranquilidad de nuestros clientes es de suma importancia. Por lo anterior, empacamos y embalamos sus pertenecías con el mayor cuidado y para eso contamos con personal calificado y material de alta calidad para garantizar el éxito de nuestros servicios.",
+        "tamanoletraH2": "150%",
+        "tamanoletraP": "82%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Seguridad",
+            "icono": "icon-fi-guarda",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Responsabilidad",
+            "icono": "icon-fi-torso",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Protocolos",
+            "icono": "icon-fi-protocolo",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "imagen": "img3.jpg",
+        "titulo": "Logística y distribución de mercancía.",
+        "descripcion": "Hacemos toda la logistica y distribucion de sus productos",
+        "tamanoletraH2": "150%",
+        "tamanoletraP": "110%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Delicadeza",
+            "icono": "icon-fi-caja-embalaje",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Compactación",
+            "icono": "icon-fi-cinta-embalar",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Confiabilidad",
+            "icono": "icon-fi-guacal",
+            "class": "card-footer-right"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "imagen": "img4.jpg",
+        "titulo": "Servicio Expreso o compartido a nivel nacional",
+        "descripcion": "Contamos con servicio expreso o consolidado. Realizamos despachos a lo largo del territorio nacional, contamos con camiones de diferentes capacidades con base en las necesidades del servicio contratado.",
+        "tamanoletraH2": "145%",
+        "tamanoletraP": "79%",
+        "imgFooter": [
+          {
+            "id": "1",
+            "nombre": "Delicadeza",
+            "icono": "icon-fi-zorra",
+            "class": "card-footer-left"
+          },
+          {
+            "id": "2",
+            "nombre": "Calidad",
+            "icono": "icon-fi-sofa",
+            "class": "card-footer-center"
+          },
+          {
+            "id": "3",
+            "nombre": "Compromiso",
+            "icono": "icon-fi-camion-trasteo",
+            "class": "card-footer-right"
+          }
+        ]
+      }
+    ]
+  },
+  "PlaceTime": {
+    "url": "6.jpg",
+    "titulo": "Nuestros Colaboradores",
+    "detalle": "Somos un grupo de personas que trabajamos con corazón, alma y dedicación para ofrecerle a nuestros clientes un buen servicio de transporte de sus mercancías con la mayor disponibilidad de tiempo, agilidad, responsabilidad y seguridad"
+  },
+  "footer": {
+    "propuestaValor": {
+      "titulo": "PROPUESTA VALOR",
+      "detalle": "Creamos valor por medio de nuestra calidad en el servicio, respaldo, soluciones logísticas integrales y a la medida, reportes personalizados, precios competitivos e información en tiempo real de sus mercancías."
+    },
+    "nuestrosServicios": {
+      "nombre": "NUESTROS SERVICIOS",
+      "servicios": [
+        {
+          "id": 1,
+          "nombre": "Transporte de Carga Terrestre Servicio Expreso O Consolidado a nivel nacional",
+          "href": "/"
+        },
+        {
+          "id": 2,
+          "nombre": "Servicio de Logística y distribuciónde de mercancia a nivel urbano y nacional",
+          "href": "/"
+        },
+        {
+          "id": 3,
+          "nombre": "Empaque y embalaje de su mercancía.",
+          "href": "/"
+        },
+        {
+          "id": 4,
+          "nombre": "Mudanzas Residenciales y Empresariales",
+          "href": "/"
+        },
+        {
+          "id": 5,
+          "nombre": "Transporte especializado de motos",
+          "href": "/"
+        }
+      ]
+    },
+    "contactanos": {
+      "nombre": "CONTACTANOS",
+      "comunicaciones": [
+        {
+          "id": 1,
+          "icono": "social-link-whatsapp whatsapp",
+          "detalle": 3206680205,
+          "href": "/",
+          "color": "#ff000000"
+        },
+        {
+          "id": 2,
+          "icono": "fi-telephone",
+          "detalle": "PBX: (1) 3206680205",
+          "href": "/",
+          "color": "#7fff00"
+        },
+        {
+          "id": 3,
+          "icono": "fi-at-sign",
+          "detalle": "multicargajym@gmail.com",
+          "href": "mailto:multicargajym@gmail.com",
+          "color": "#ffbd22"
+        },
+        {
+          "id": 4,
+          "icono": "fi-marker",
+          "detalle": "Carrera 21 # 159 53 Bogotá, Colombia",
+          "href": "/",
+          "color": "#ff0000"
+        }
+      ]
+    },
+    "derechosyRedes": {
+      "icono": "fi-web",
+      "derechos": "Derechos Reservados CytelSystem / Hector Javier Moreno"
+    }
+  },
+  "telefonoApp": {
+    "color": "#89ff1d",
+    "backgroundColor": "#b4b4b40a"
+  },
+  "whatsApp": {
+    "href": "https://api.whatsapp.com/send/?phone=573206680205&amp;text=%C2%A1Hola+Team+Multicarga!",
+    "color": "ffff",
+    "backgroundColor": "#00e676"
+  }
+}
